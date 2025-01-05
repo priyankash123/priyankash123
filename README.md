@@ -1,4 +1,4 @@
-Priyanka Sharma
+ ## Priyanka Sharma
 
 I'm an enthusiastic B.Tech CSE student at GL Bajaj Group of Institutions, Mathura, with a passion for web development and a strong focus on learning data structures and algorithms. I’m driven by a love for technology and a desire to build impactful solutions.<br>
 
@@ -15,7 +15,7 @@ I'm an enthusiastic B.Tech CSE student at GL Bajaj Group of Institutions, Mathur
 ## 🏆 Achievements
 -   Coordinated in GL Bajaj Annual Fest TOONAV 2024 and received a ceritificate for it.<br>
 
-## 📬 Get in Touch
+## 📬 Get in Touch 
 -   Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-sharma-670610250/) or [Twitter](https://x.com/PriyankaSh64193)<br>
 -   Explore my projects at [Github](https://github.com/priyankash123)<br>
 
